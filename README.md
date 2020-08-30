@@ -16,7 +16,3 @@
 ![Junianto Stats](https://github-readme-stats.vercel.app/api?username=j3ndra&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3ndra&layout=compact&hide=css,html&theme=vue)
-
-
-## Connect with me:
-[Twitter]([https://](https://twitter.com/jendra21))
