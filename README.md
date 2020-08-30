@@ -7,7 +7,7 @@
 # About me
 
 - 😀 4th grade at ~~~~, 🇮🇩.
-- 🤥 Wan't to learn something new but too lazy.
+- 🤥 Want to learn something new but too lazy.
 - 🤗 Easy to adapt.
 - 🙇 Currently learn python for AI Competition for my school.
 - 👋 Reach me via [Twitter](https://twitter.com/jendra21) or [Facebook](https://www.facebook.com/junianto.junianto.754365)
