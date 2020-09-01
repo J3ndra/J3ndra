@@ -11,6 +11,7 @@
 - 🤗 Easy to adapt.
 - 🙇 Currently learn python for AI Competition for my school.
 - 👋 Reach me via [Twitter](https://twitter.com/jendra21) or [Facebook](https://www.facebook.com/junianto.junianto.754365)
+- 📝 Currently write a content for [Anbidev](https://www.anbidev.com/)
 
 
 ![Junianto Stats](https://github-readme-stats.vercel.app/api?username=j3ndra&theme=vue)
