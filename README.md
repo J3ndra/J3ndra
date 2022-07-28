@@ -3,5 +3,5 @@
 </h3>
 
 <samp>
-    Just a normal kid, 1st semester college student at Indonesia.
+    Just a normal kid, 3rd semester college student at Indonesia.
 </samp>
