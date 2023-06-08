@@ -3,5 +3,11 @@
 </h3>
 
 <samp>
-    Just a normal kid, 3rd semester college student at Indonesia.
+    4th semester in Dian Nuswantoro University
 </samp>
+
+**STACK**
+1. Kotlin
+2. Dart
+3. PHP
+4. Python
