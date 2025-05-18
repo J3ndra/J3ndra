@@ -1,11 +1,12 @@
 <h1 align="center">Halo, I'm Junianto 👋</h1>
-<h3 align="center">I'm a 7th-semester student at Udinus, passionate about technology, machine learning, and software development. Currently, I'm diving deep into Python for machine learning, including frameworks like TensorFlow, Torch, Scikit-learn, and exploring CI/CD practices for machine learning workflows.</h3>
+<h3 align="center">I'm a 8th-semester student at Udinus and waiting for graduation, passionate about technology, machine learning, and back-end development.</h3>
 
 <h2 align="left">🌱 I’m currently learning</h2>
 
 - **ML/DL**: Continually learn about machine learning and deep learning to build adaptable models for real-world challenges.
 - **CI/CD**: Setting up pipelines to automate workflows.
 - **Python Development**: Continually improving my Python skills for building efficient, scalable applications.
+- **Backend Development**: Building robust backends with PHP/Laravel & JS/TS with Nest.JS.
  
 <h2 align="left">Connect with me:</h2>
 <p align="left">
