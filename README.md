@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Junianto Endra, an Junior AI Researcher & Software Developer</p>
+<p align="left">I'm Junianto Endra, Junior AI Researcher & Software Developer</p>
 
 ###
 
