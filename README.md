@@ -1,16 +1,54 @@
 <h1 align="center">Halo, I'm Junianto 👋</h1>
-<h3 align="center">I'm a 8th-semester student at Udinus and waiting for graduation, passionate about technology, machine learning, and back-end development.</h3>
 
-<h2 align="left">🌱 I’m currently learning</h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/junianto39/">
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+ </a>
+ <a href="https://huggingface.co/kohendru">
+  <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="huggingface logo" />
+ </a>
+</div>
 
-- **ML/DL**: Continually learn about machine learning and deep learning to build adaptable models for real-world challenges.
-- **CI/CD**: Setting up pipelines to automate workflows.
-- **Python Development**: Continually improving my Python skills for building efficient, scalable applications.
-- **Backend Development**: Building robust backends with PHP/Laravel & JS/TS with Nest.JS.
- 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-    <a href="https://github.com/J3ndra" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /></a>
-    <a href="https://dev.to/https://dev.to/koh_endru" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" height="40" alt="devto logo"  /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/junianto39/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  /></a>
-</p>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Junianto Endra, an Junior AI Researcher & Software Developer</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=J3ndra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
